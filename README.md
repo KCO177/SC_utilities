@@ -1,10 +1,10 @@
-**PsychProfiler**
+**PsychProfiler**: 
 Chatbot act regarding the choosen psychological profile
 
-**PsychAnswerer**
+**PsychAnswerer**: 
 Chatbot like utility returning answers from different psychoprofiles for chained questions.
 For testing question chain and labeling purpose.
 
-**lucidChartTransformer**
+**lucidChartTransformer**: 
 Jupyter Notebook for reformating exported lucidcharts to usable form 
 

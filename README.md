@@ -8,3 +8,6 @@ For testing question chain and labeling purpose.
 **lucidChartTransformer**: 
 Jupyter Notebook for reformating exported lucidcharts to usable form 
 
+**situationMiner**
+Rewrite the past problem situation in the required format, and add accepting of the situation"
+
